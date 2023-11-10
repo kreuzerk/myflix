@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  margin: 0;
+  background: #1b1e27;
+  color: white;
+  height: 100vh;
+}
+
+.container {
+  margin-top: 20px;
+  max-width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+}
